@@ -1,0 +1,199 @@
+# Cortège officiel
+Jeu de Jean-Charles Rodriguez, paru en encart dans Jeux & Stratégie (1983). Plan dessiné par Philippe Fassier et Alain Meyer.
+
+« Nous sommes sur la Grand-Place où, dans quelques minutes, le président va faire une brève allocution avant de gagner l'aéroport. On m'apprend à l'instant qu'il s'apprête à quitter l'Hôtel de Ville. D'importantes forces de police jalonnent le parcours, le long duquel des manifestants se sont réunis dans l'intention évidente d'interrompre le cortège officiel. Dans les milieux bien informés, on redoute un attentat perpétré par des terroristes se cachant dans la foule des manifestants. C'est la raison pour laquelle des agents des services spéciaux se sont mêlés à la foule afin que le moindre incident soit évité et que notre hôte de marque garde de son séjour le meilleur souvenir. Ici Radio Dum-Dum, je rends l'antenne au studio en attendant l'arrivée du cortège officiel… »
+
+Matériel :
+— l'encart et ses pions ;
+— du papier et quelques crayons ;
+— 2 dés.
+
+Nombre de joueurs : 2, 3 ou 4.
+
+Principe du jeu : seuls les manifestants et la police sont représentés par des pions. Les terroristes et les agents secrets sont cachés parmi ces pions. Ceux des joueurs qui manipulent ces forces sont ainsi amenés à déplacer des pions appartenant à leurs adversaires.
+
+But du jeu : le vainqueur est celui des joueurs qui, en fin de partie, a le plus de points. Une table des scores indique à chaque joueur, à tout moment du jeu, le nombre de points qu'il gagne ou perd selon qu'il réalise ou non les objectifs qui lui sont assignés.
+
+## Objectifs des joueurs
+Police :
+a. empêcher toute tentative d'assassinat ;
+b. empêcher que le cortège officiel soit bloqué dans sa progression ;
+c. éviter les « bavures » ;
+d. conduire le président étranger jusqu'à l'aéroport.
+
+Manifestants :
+a. bloquer le plus souvent possible la progression du cortège officiel ;
+b. éviter que ne se produise une tentative d'assassinat (afin de ne pas en subir les « retombées politiques ») ;
+c. éviter les « bavures » (manifestants blessés ou tués).
+
+Agents secrets :
+a. abattre les deux terroristes qui se cachent parmi les manifestants et ce en un minimum de temps (c'est-à-dire en un minimum de tours de jeu).
+
+Terroristes :
+a. abattre le président ;
+b. quitter la ville sans être pris.
+
+Il existe quatre forces dans le jeu (police, manifestants, agents secrets et terroristes) mais seulement deux groupes de pions : ceux de la police et ceux des manifestants. Les agents secrets et les terroristes sont cachés parmi les pions du joueur qui défend les manifestants, mais contrôlés par les joueurs agents secrets et terroristes.
+
+## Le terrain et les pions
+— il représente la ville (rues et bâtiments) où passe le cortège officiel ;
+— le plan est divisé en zones ; chacune d'elles peut être repérée à l'aide d'une lettre et d'un chiffre : l'hôtel de ville est en G1, la Grand-Place en D3-E3-D4-E4 et l'aéroport en A7 ;
+— les points, qu'ils soient ou non coloriés, sont les seuls endroits où des pions peuvent prendre place ;
+— le cortège officiel (représenté par le pion « voiture présidentielle ») ne peut emprunter que des points coloriés ;
+— les points munis de flèches pointant dans la direction d'un bâtiment permettent à des pions de se rendre sur les toits des bâtiments ; les autres non ;
+— les toits des bâtiments présentant un point marqué d'un « H » peuvent accueillir un hélicoptère ;
+— voir le paragraphe « le début de la partie » pour la pose initiale des pions ;
+— voir le paragraphe « discours » pour savoir ce qui se passe sur la Grand-Place.
+
+Les pions :
+La police : le joueur qui tient ce rôle dispose de l'ensemble des pions « police », du pion « voiture présidentielle », du pion « président », des pions « voiture de police », « moto » et « hélicoptère ».
+
+En bas et à gauche de chacun des pions représentant des véhicules (moto, voiture, hélicoptère) figure une indication chiffrée concernant le déplacement maximum autorisé (voir déplacement). Tandis qu'en bas et à droite figure le nombre de pions « police » qui peuvent prendre place à bord du véhicule (voir paragraphe « véhicules de police »).
+
+## Le début de la partie
+Les règles du jeu sont légèrement différentes selon que l'on joue à 2, à 3 ou à 4 ; mais les différentes actions qui composent un tour de jeu restent identiques (voir tour de jeu). Par tirage au sort ou accord, les joueurs se répartissent les quatre rôles en présence. A quatre joueurs : chacun ne tient qu'un
+ rôle. Il y a un joueur « police », un « manifestants », un « agent secret » et un « terroristes ».
+— à 3 joueurs : un joueur cumule police et agents secrets, un joueur manifestants et le troisième, les terroristes (voir jeu à 3) ;
+— à 2 joueurs : un joueur police + agents secrets et un joueur manifestants + terroristes (les objectifs sont différents du jeu à 3 ou 4 : voir le paragraphe consacré au jeu à 2).
+
+Le jeu à quatre :
+1. Les joueurs se répartissent les pions :
+— celui qui joue la police prend tous les pions police, les véhicules (motos, voitures, hélicoptère), la voiture présidentielle et le président (qui reste hors jeu jusqu'au discours — voir discours) ;
+— celui qui joue les manifestants prend tous les pions manifestants ;
+— les deux autres joueurs (terroriste et agent secret) n'ont pas de pions (pour l'instant…).
+
+2. Le joueur qui joue le rôle des agents secrets choisit et note en secret sur une feuille de papier les numéros de deux manifestants : ce sont ses agents. Les deux numéros choisis doivent obligatoirement être pairs.
+
+3. Le joueur qui défend les terroristes procède de la même manière à la différence qu'il choisit deux manifestants dont les numéros sont impairs. Ce sont les deux terroristes.
+Les papiers sont pliés et serviront de preuve le moment venu (intervention des agents secrets contre les terroristes ou tentative d'attentat des terroristes).
+
+4. Le joueur qui contrôle la police note sur un morceau de papier la couleur des points que le cortège officiel (la voiture présidentielle) suivra jusqu'à l'arrivée sur la Grand-Place.
+
+5. La pose des pions.
+a. La police pose ses pions de la manière suivante :
+— la voiture officielle devant l'Hôtel de Ville, sur le point tricolore, dans la zone G1 ;
+— chacun des pions police sur des points non colorés. Il peut y avoir 1 ou 2 pions par point, jamais plus. La pratique du jeu montre que, comme dans la réalité, il est utile de jalonner le parcours de pions police, au moins sur les 2/3 du chemin. A vous de juger.
+— les pions véhicules (moto et voiture) sur des pions police (les policiers sont alors à l'intérieur) ou à côté de pions police (le véhicule est simplement gardé) ou sur un point encore inoccupé (le véhicule n'est pas gardé) ;
+— le pion hélicoptère dans la zone A 7 sur le toit de l'aéroport.
+b. Le joueur manifestant pose tous ses pions :
+— à raison d'un ou deux sur des points non coloriés encore inoccupés ; jamais sur un point où se trouve un pion police.
+— quand tous les pions sont posés suivre la procédure décrite dans le paragraphe « tour de jeu ». Précisons que lors de la pose, les manifestants ne peuvent être placés sur un toit. Au premier tour, le joueur police montre la feuille sur laquelle il a inscrit la couleur du chemin qu'il empruntera pour aller jusqu'à la Grand-Place.
+Désormais, tous les points (de toit ou au sol), coloriés ou non, sont accessibles à tous les pions (voir déplacements). Toutefois, les manifestants ne peuvent franchir les barrières de la Grand-Place.
+
+## Le tour de jeu
+Chaque tour de jeu se décompose en une série d'actions présentées ci-dessous. Ce découpage du tour de jeu est valable quel que soit le nombre de joueurs.
+
+a. déplacement du pion « voiture présidentielle » vers un point colorié voisin de celui où elle se trouve, dans la direction de l'aéroport. Si ce point est occupé, il n'y a pas de déplacement. Quelle qu'en soit la raison, les joueurs appliquent les conséquences du « blocage » en lisant la table des scores ;
+b. tentative d'assassinat par le ou les pions terroristes s'ils remplissent les conditions requises pour le faire (voir tirs) ;
+c. éventuelle riposte des pions police ou agents secrets s'il y a eu tentative d'assassinat (voir tirs) ;
+d. tentative d'arrestation d'un ou deux terroristes par les pions police ou agents secrets si les joueurs qui contrôlent ces forces croient avoir localisé les pions terroristes (voir tirs) ;
+e. déplacement des pions police, application immédiate des règles concernant les contacts police/manifestants, tirs éventuels de la police sur le ou les terroristes découverts, éventuelles « bavures » (voir table des scores) ;
+f. déplacement des pions « manifestants » ;
+g. le joueur qui contrôle les deux agents secrets déplace quatre pions manifestants de son choix portant des numéros pairs ; parmi les pions déplacés peuvent se trouver ou non les pions manifestants qu'il a choisis comme agents secrets ;
+— application immédiate de la règle des contacts entre police et manifestants (voir déplacement des pions police) ;
+— tirs possibles sur les pions terroristes ;
+h. le joueur qui contrôle les terroristes déplace quatre pions manifestants de son choix portant des numéros impairs ;
+— éventuelle tentative d'attentat.
+
+## Table des scores
+(colonnes : Police / Agent secret / Manifestant / Terroriste)
+Pour chaque blocage du cortège officiel (pion voiture présidentielle) : −20 / — / +80 / —
+Le cortège n'a jamais été bloqué : +100 / — / −30 / —
+Pour chaque bavure : −30 / — / −20 / —
+Pour un terroriste abattu avant un attentat : +200 / +200 / — / −50
+Président blessé : −100 / — / −50 / +200
+Président tué : −150 / −50 / −100 / +200
+Pour un terroriste abattu après tentative d'attentat (réussie ou non) : +70 / +100 / −50 / −30
+Président indemne à l'aéroport : +200 / — / +100 / −50
+Après une tentative d'attentat les 2 terroristes s'échappent : −100 / −150 / — / +100
+Un seul s'échappe : −50 / −100 / — / +200
+
+## Les déplacements
+a. Les pions police :
+— chaque pion police peut se déplacer vers un point voisin inoccupé, vers un point voisin déjà occupé par un autre pion police (mais pas 2), vers un point occupé par 1 ou 2 manifestants ;
+— si le point sur lequel aboutit un pion police est occupé par un ou deux manifestants, il y a contact. Dans ce cas, le joueur manifestant doit déplacer immédiatement son ou ses pions au contact du pion police. Le ou les pions manifestants sont alors dirigés (ensemble ou séparément) vers un ou des points voisins ne comptant pas de pion police.
+Le joueur contrôlant les manifestants doit faire reculer ses pions de manière que, finalement, il n'y ait jamais plus de deux pions manifestants par point. Cela peut signifier qu'à certains moments trois pions manifestants peuvent être ensemble sur un même point ; alors, l'un d'eux doit immédiatement quitter ce point ;
+— un pion manifestant qui ne peut plus être déplacé que vers un point voisin contenant un pion police est « interpellé » : il est immédiatement retiré du jeu.
+— un ou deux pions police peuvent se diriger vers un point voisin occupé par une moto, une voiture ou un hélicoptère posé sur un toit. Ils peuvent alors être placés au-dessous du pion véhicule, si le joueur le décide. Si ce n'est pas le cas, on considérera que les pions police sont à côté du véhicule, mais ne l'empruntent pas (ils le gardent).
+
+b. Les manifestants :
+à son tour de jouer le joueur qui contrôle les pions manifestants déplace tous ses pions ou seulement quelques-uns, voire aucun. Le déplacement se fait de point en point, vers un point voisin. Le pion manifestant ne peut être déplacé que vers un point inoccupé ou un point contenant déjà un autre pion manifestant. Un pion manifestant ne peut jamais être conduit sur un point sur lequel est présent un pion police, à fortiori deux.
+— un pion manifestant peut emprunter un véhicule de police s'il est vide et la case sur laquelle il se trouve est inoccupée. Au tour suivant, le pion acquiert les capacités de déplacement du véhicule.
+— un ou deux pions manifestants peuvent aller sur un toit après avoir séjourné au moins un tour sur un point fléché désignant le bâtiment.
+
+c. La voiture présidentielle :
+le pion voiture présidentielle est déplacé par le joueur police. Celle-ci est déplacée d'un point colorié vers un autre point colorié voisin inoccupé, dans la direction de l'aéroport. Si cela est impossible, quelle qu'en soit la raison, il y a blocage de la voiture officielle (application de la table des scores à chaque fois que cela se produit).
+A la suite d'une tentative d'attentat, la voiture présidentielle peut se déplacer deux fois de suite en direction de l'aéroport pour autant que les points coloriés soient inoccupés.
+
+d. Les véhicules de police
+— la moto :
+elle peut se déplacer de 3 points par tour de jeu en portant 2 pions police. Elle ne circule qu'au sol. Au contact de pions manifestants, le joueur applique la règle qui régit les contacts police/manifestants (voir déplacement des pions police).
+— la voiture de police :
+elle peut se déplacer de 2 points par tour en portant 3 pions police. Elle répond aux mêmes règles que la moto.
+— l'hélicoptère :
+il peut se déplacer de 4 zones par tour ; 3 seulement s'il décolle ou atterrit.
+Montée des policiers dans l'hélicoptère : dès que l'hélicoptère s'est posé sur un bâtiment, les pions police qui se trouvent sur le toit sont placés sous le pion hélicoptère. L'hélicoptère ne peut transporter plus de 4 pions police à la fois.
+Lorsque l'hélicoptère se pose sur un bâtiment, les pions police peuvent sortir de l'hélicoptère. Ils doivent être immédiatement répartis sur le toit et les points adjacents au bâtiment de manière à respecter la règle des deux pions par point. Si cela s'avère impossible, certains pions police devront rester dans l'hélicoptère.
+N'importe lequel de ces véhicules peut être pris par un manifestant s'il n'est pas gardé par un pion police et qu'il est vide de tout occupant. Les déplacements ont alors lieu de la même manière que précédemment.
+
+## Le discours
+Dès que la voiture présidentielle atteint le point 1 de la Grand-Place, le moment du discours est arrivé. Le pion voiture présidentielle est placé sur le point 1 et le pion président est placé sur la tribune officielle, au centre de la Grand-Place. C'est l'un des endroits où il est le plus vulnérable. Au tour suivant la voiture présidentielle est déplacée vers le point 2 et enfin au tour suivant sur le point 3. Dès que la voiture est placée sur le point 3, le discours est terminé et le pion président est retiré du jeu. Au tour suivant, la voiture officielle reprend ses déplacements sur les points de couleur.
+Au moment où la voiture présidentielle est sur le point 2 le joueur police doit choisir quel chemin il empruntera pour se rendre à l'aéroport. Il note la couleur du chemin choisi sur un morceau de papier. Il devra le rendre public au moment où la voiture présidentielle quittera le point 3.
+
+## Les tirs
+— le joueur qui contrôle les terroristes (comme celui qui contrôle les agents secrets) doit obligatoirement révéler la vraie nature du pion « manifestant » qui a été blessé ou tué à la suite d'un tir, s'il s'agit d'un agent secret ou d'un terroriste. Cela peut se produire à la suite d'un tir direct ou d'une bavure.
+Quand un pion terroriste est à portée de tir de la voiture présidentielle ou du président lui-même, le joueur qui le manipule, quand vient son moment de jouer, annonce : « je tire ! ». Il désigne le pion qui agit et montre pour preuve la feuille de papier sur laquelle il a noté le numéro du pion terroriste.
+Lors du tir d'un agent secret la procédure est la même. Il reste à vérifier si les conditions de tir sont réunies.
+a. au niveau du sol :
+un pion police, agent secret ou terroriste peut tirer sur un autre pion si ce pion est sur un point voisin du tireur ; il n'est possible de tirer d'un point vers un autre point voisin que si les deux points sont reliés par un trait.
+b. d'un toit :
+le tir peut atteindre tous les points, coloriés ou non qui se trouvent dans la même zone quelle que soit leur position (jet de grenade) ; il est toujours possible de tirer d'un toit vers un autre toit.
+
+Dans tous les cas, les joueurs qui tirent consultent dans le tableau des tirs ceux qui les concernent, lancent deux dés et appliquent les conséquences du tir.
+— un pion blessé ou tué est immédiatement retiré du jeu ;
+— un terroriste ou un agent secret blessé n'est pas retiré du jeu mais ne peut plus se déplacer. Il peut continuer à faire feu. Pour les terroristes, comme pour les agents secrets, la seconde blessure est fatale.
+
+## Table des tirs
+(résultat des deux dés, de 2 à 12 ; — : raté ; B : blessé ; T : tué ; BV : bavure)
+Le terroriste tire
+ d'un point non colorié : — — BV — B T B — BV — —
+ d'un point colorié : — — BV B B T B B BV — —
+ à partir d'un véhicule : — T — B BV B BV B — T —
+L'agent secret tire
+ vers un point quelconque : T T T B — — — B T T T
+ d'un véhicule : T T B — — — — — B T T
+ de l'hélicoptère : T B — — — — — — — B T
+La police tire
+ d'un point quelconque : T T B — BV BV BV — B T T
+ d'un véhicule : T T B BV BV — BV BV B T T
+ de l'hélicoptère : BV B BV BV T BV B BV BV B BV
+
+## Ripostes et bavures
+Les ripostes :
+Elles interviennent dès qu'un terroriste a fait feu ou à tout moment, une fois que l'un d'entre eux est découvert.
+L'agent secret (ou les deux) annonce qu'il tire en désignant le pion manifestant concerné. Le joueur montre alors la feuille de papier sur laquelle est inscrit le numéro du pion agent secret. Il est dès lors connu de tous. La procédure de jeu est identique à la précédente : lancer deux dés et consulter la table des tirs. Les pions police peuvent à leur tour faire feu, mais ils tirent moins bien que les agents secrets. Attention aux bavures…
+
+Tirs précédant l'action des terroristes :
+A tout moment du jeu, celui qui manipule les agents secrets ou les pions police peut avoir acquis la « certitude » que tel ou tel pion manifestant est en fait un terroriste. Il peut y avoir tir à n'importe quel tour de jeu. Le pion police qui tire doit remplir les conditions précédemment évoquées et suivre la procédure de tir (lancer de dés, lecture de la table).
+Un agent secret peut faire de même, mais il est contraint dans ce cas de révéler sa nature d'agent secret. Le joueur apporte la preuve que le manifestant qui fait feu est un agent secret en rendant public sa feuille secrète.
+Cette action ne se fonde que sur des présomptions et les risques de bavures sont importantes.
+
+Les bavures :
+Elles ne concernent que les pions police. Elles se produisent dans deux cas :
+a. après un tir réussi sur un pion manifestant supposé être un terroriste, mais qui n'en est pas un (appliquer la table des scores) ;
+b. après un tir raté (d'après la table des tirs), si le manifestant (pris pour un terroriste) est à côté d'un autre manifestant, c'est le manifestant qui n'était pas visé qui est touché.
+Dans les deux cas, le manifestant touché est immédiatement retiré du jeu.
+Lorsqu'une bavure concerne un agent secret ou un terroriste, les joueurs qui manipulent ces pions doivent l'annoncer. Cela peut se produire quand un policier tire sur un manifestant qu'il croit être un terroriste (mais n'en est pas un) ; c'est le pion situé sur le même point qui est blessé. Si ce pion touché par mégarde est un agent secret ou un terroriste, le joueur concerné doit l'annoncer.
+
+## Le jeu à trois ou à deux
+Le jeu à trois :
+Lorsque l'on joue à trois, les rôles se répartissent de la manière suivante : 1 joueur police, 1 joueur manifestant et 1 joueur terroriste.
+Les différences par rapport au jeu à 4 sont les suivantes :
+— le joueur terroriste déplace 4 pions police et 4 pions manifestant par tour de jeu. Le déplacement des pions police par le terroriste correspond à la simulation d'envoi d'ordres par talkie-walkie aux forces de police par les terroristes.
+— le joueur police contrôle 2 agents secrets parmi les manifestants (pions qu'il choisit en secret) ;
+— le joueur manifestant peut déplacer 2 pions police par tour. Cette procédure simule la provocation des forces de Police par jet de pierres.
+
+Le jeu à deux :
+Il n'y a qu'un joueur manifestant et un joueur police. Ils assument également les rôles d'agents secrets et de terroristes. Le joueur police choisit parmi ses pions, 2 pions de rang pair qui seront agents secrets (déguisés en policiers) et 2 pions manifestants de rang pair (agents secrets déguisés en manifestants). L'autre joueur procède de même mais en choisissant au total 4 pions de rang impair, 2 parmi les manifestants et 2 parmi les pions police (des terroristes déguisés).
+
+Jean-Charles et Sylvie Rodriguez
