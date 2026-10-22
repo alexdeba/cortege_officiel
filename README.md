@@ -35,26 +35,17 @@ Selon le système :
   binaire. On peut aussi le produire depuis Linux ou macOS :
   `GOOS=windows go build -o cortegeofficiel.exe .`
 
-## Fichiers
+## Comment jouer
 
-- `assets/gen/` : le plan redressé, la planche de pions et la couverture ;
-  `assets/polices/` : Anton, Lato (OFL), Special Elite (Apache) ;
-  `assets/logo.png` : le titre découpé sur la page 64 (encre seule, fond
-  transparent), en tête du panneau de jeu.
-- `regle/regle.txt` : la règle transcrite des pages 64, 73, 74 et 75,
-  affichée telle quelle dans le jeu (touche R).
-- `jeu/` : le moteur de règles, sans interface : état, tour de jeu,
-  déplacements, contacts, tirs, scores, et l'IA (`ia.go`) ;
-  `carte_donnees.go` : le plan relevé (points, traits, toits, zones).
-- à la racine : l'interface (carte et zoom, panneau, règle, accueil,
-  captures).
-
-## Le plan
-
-Le plan a été relevé sur une photo de l'encart par un outil qui n'est pas
-distribué : 162 points (51 colorés, 28 toits dont 14 à H), 313 traits,
-83 accès aux toits, le quadrillage des zones A–G × 1–7 et les barrières de
-la Grand-Place. Le résultat est dans `jeu/carte_donnees.go`.
+- Une consigne à chaque étape, dans le panneau de droite, avec ses boutons.
+- Coups possibles surlignés : les pions jouables sont encadrés d'ambre,
+  le pion choisi de rouge ; ses destinations (ou ses cibles) sont entourées
+  sur la carte ; le prochain point de la voiture est cerclé de blanc.
+  Survoler un point montre sa zone, sa nature et ses occupants.
+- Barre d'espace : zoom sur la carte (là où est la souris) ; une mini-carte
+  apparaît en haut à droite (clic ou glisser pour s'y déplacer).
+- R : la règle complète, les deux tables, les choix d'adaptation et les
+  commandes. S : la table des scores. A : accélérer l'ordinateur.
 
 ## Choix d'adaptation
 
@@ -114,27 +105,6 @@ La règle laisse quelques points dans l'ombre ; le jeu les tranche ainsi
   qui a été démasqué, et les pions que les terroristes déplacent, que tout
   le monde voit). La foule de l'ordinateur ne déplace que 12 manifestants
   par tour.
-
-## L'interface
-
-Film d'espionnage des années 70, sombre et sérieux, dans le ton de la
-couverture : panneaux graphite et acier, consignes et règle sur papier bulle
-de dossier, un seul rouge signal pour l'action (boutons principaux, filets,
-tampons « TRÈS SECRET », « AFFAIRE CLASSÉE »), l'ambre pour ce qui peut
-jouer. Titres en Anton, le télex des événements à la machine à écrire
-(Special Elite), le texte courant en Lato. La photo du plan est étalonnée au
-chargement (couleurs à moitié éteintes, ombres froides) ; les pions sont
-ceux découpés sur l'encart.
-
-- Une consigne à chaque étape, dans le panneau de droite, avec ses boutons.
-- Coups possibles surlignés : les pions jouables sont encadrés d'ambre,
-  le pion choisi de rouge ; ses destinations (ou ses cibles) sont entourées
-  sur la carte ; le prochain point de la voiture est cerclé de blanc.
-  Survoler un point montre sa zone, sa nature et ses occupants.
-- Barre d'espace : zoom sur la carte (là où est la souris) ; une mini-carte
-  apparaît en haut à droite (clic ou glisser pour s'y déplacer).
-- R : la règle complète, les deux tables, les choix d'adaptation et les
-  commandes. S : la table des scores. A : accélérer l'ordinateur.
 
 ## Crédits et licence
 
